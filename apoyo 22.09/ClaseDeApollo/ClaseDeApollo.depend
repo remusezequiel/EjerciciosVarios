@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537647241 source:c:\users\ezequ\desktop\programacion\utnpro\colores\apoyo 22.09\apoyo22.09.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apoyo22.09.h"
+
+1537646872 c:\users\ezequ\desktop\programacion\utnpro\colores\apoyo 22.09\apoyo22.09.h
+
+1537647102 source:c:\users\ezequ\desktop\programacion\utnpro\colores\apoyo 22.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apoyo22.09.h"
+
